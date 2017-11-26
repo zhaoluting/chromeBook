@@ -52,7 +52,7 @@ Element 对象可以拥有类型为元素节点、文本节点、注释节点的
 - Properties标签页: 全面地列出当前选中元素的属性；
 
 ### dom对象的辅助功能
-![image](../image/elements2.png)
+<img src="../image/elements2.png" width="300"/>
 - Add attribute : 添加元素属性
 - Edit attribute : 编辑元素属性
 - Edit as HTML : 直接对元素的HTML进行编辑，所有的修改都会即时在页面上得到呈现

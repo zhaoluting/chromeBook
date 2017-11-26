@@ -10,8 +10,7 @@
 ![image](../image/device1_2.png)  
 
 除了上图标出的功能，右上角可以发现移动端调试的更多功能哦!  
-  
-![image](../image/device2.png)
+<img src="../image/device2.png" width="300"/>
 
 - Show device frame : 显示设备外壳
 - Show media queries : 显示媒体查询(对屏幕大小的判断生成响应式布局)
